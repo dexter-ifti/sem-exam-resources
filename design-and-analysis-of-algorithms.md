@@ -1,5 +1,7 @@
 # Design and Analysis of Algorithms
 
+<figure><img src=".gitbook/assets/Screenshot from 2024-09-06 08-57-49.png" alt=""><figcaption></figcaption></figure>
+
 {% embed url="https://www.youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa" %}
 DAA By Gate Smashers
 {% endembed %}
