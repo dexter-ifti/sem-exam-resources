@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [5th Sem](README.md)
+* [Design and Analysis of Algorithms](design-and-analysis-of-algorithms.md)
