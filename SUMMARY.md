@@ -9,3 +9,4 @@
 * [Digital Image Processing](digital-image-processing.md)
 * [Internet Of Things](internet-of-things.md)
 * [Full Stack Development - Backend](full-stack-development-backend.md)
+* [CG](cg.md)
