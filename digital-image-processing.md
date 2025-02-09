@@ -1,6 +1,6 @@
 # Digital Image Processing
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.youtube.com/playlist?list=PLR5USSocuZ5dxwi3eVsC-xvA4Ux80d6X4" %}
 
