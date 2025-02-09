@@ -10,12 +10,10 @@
 * [Internet Of Things](internet-of-things.md)
 * [Full Stack Development - Backend](full-stack-development-backend.md)
 * [CG](cg.md)
-
-## 6th Sem
-
-* [Computer Networks CS305](6th-sem/computer-networks-cs305.md)
-* [Microprocessor CS313](6th-sem/microprocessor-cs313.md)
-* [Software Project & Quality Management CS311](6th-sem/software-project-and-quality-management-cs311.md)
-* [ADBMS CS46](6th-sem/adbms-cs46.md)
-* [Compiler Design CS315](6th-sem/compiler-design-cs315.md)
-* [Renewable Energy EE343](6th-sem/renewable-energy-ee343.md)
+* [6th Sem](6th-sem/README.md)
+  * [Computer Networks CS305](6th-sem/computer-networks-cs305.md)
+  * [Microprocessor CS313](6th-sem/microprocessor-cs313.md)
+  * [Software Project & Quality Management CS311](6th-sem/software-project-and-quality-management-cs311.md)
+  * [ADBMS CS46](6th-sem/adbms-cs46.md)
+  * [Compiler Design CS315](6th-sem/compiler-design-cs315.md)
+  * [Renewable Energy EE343](6th-sem/renewable-energy-ee343.md)
