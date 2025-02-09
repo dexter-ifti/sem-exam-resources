@@ -1,8 +1,8 @@
 # Operating System
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-{% file src=".gitbook/assets/Unit 1.pdf" %}
+{% file src="../.gitbook/assets/Unit 1.pdf" %}
 
 {% embed url="https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p" %}
 
